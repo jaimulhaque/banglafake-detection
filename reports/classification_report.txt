@@ -4,9 +4,9 @@ Final Test Classification Report
 
               precision    recall  f1-score   support
 
-        Fake     0.9931    0.9632    0.9779       299
-        Real     0.9644    0.9933    0.9787       300
+        Fake     0.9670    0.9799    0.9734       299
+        Real     0.9797    0.9667    0.9732       300
 
-    accuracy                         0.9783       599
-   macro avg     0.9788    0.9783    0.9783       599
-weighted avg     0.9787    0.9783    0.9783       599
+    accuracy                         0.9733       599
+   macro avg     0.9734    0.9733    0.9733       599
+weighted avg     0.9734    0.9733    0.9733       599
