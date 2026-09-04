@@ -1,0 +1,15 @@
+# Virtual Environment
+banglafake_env/
+venv/
+.venv/
+env/
+
+# Datasets and Models (Strict Folder Ignore)
+data/
+data/**
+models/
+models/**
+
+# Python Cache
+__pycache__/
+*.pyc

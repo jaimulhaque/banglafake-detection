@@ -1,0 +1,12 @@
+BanglaBERT + CNN + Attention
+Final Test Classification Report
+==================================================
+
+              precision    recall  f1-score   support
+
+        Fake     0.9931    0.9632    0.9779       299
+        Real     0.9644    0.9933    0.9787       300
+
+    accuracy                         0.9783       599
+   macro avg     0.9788    0.9783    0.9783       599
+weighted avg     0.9787    0.9783    0.9783       599
