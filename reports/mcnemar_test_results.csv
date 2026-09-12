@@ -1,0 +1,4 @@
+Comparison,Baseline_correct_only,Variant_correct_only,statistic,p_value,Significant (p<0.05)
+BanglaBERT-only vs BanglaBERT+CNN,14,1,1.0,0.0009765625,True
+BanglaBERT-only vs BanglaBERT+Attention,3,2,2.0,1.0,False
+BanglaBERT-only vs BanglaBERT+CNN+Attention (Full),7,1,1.0,0.0703125,False
