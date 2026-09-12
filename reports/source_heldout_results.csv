@@ -1,0 +1,2 @@
+Experiment,Test_size,Accuracy,Balanced_Accuracy,F1
+"Source-Held-Out (Fold 4, unseen sources)",53,0.9245283018867925,0.8383720930232558,0.9545454545454546
