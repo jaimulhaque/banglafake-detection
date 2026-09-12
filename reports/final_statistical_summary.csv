@@ -1,6 +1,3 @@
 Test,Statistic,p_value,Conclusion
-McNemar (seed=42): Baseline vs CNN,5.0,0.7744140625,CNN significantly worse than baseline (single seed)
-McNemar (seed=42): Baseline vs Attention,3.0,1.0,No significant difference
-McNemar (seed=42): Baseline vs Full,5.0,0.4239501953125,No significant difference (borderline)
-Repeated-Measures ANOVA (3 seeds): Accuracy,0.0417536534446763,0.9875174280763628,No significant architecture effect across seeds
-Repeated-Measures ANOVA (3 seeds): F1,0.0464096449019495,0.9854615822345236,No significant architecture effect across seeds
+"Repeated-Measures ANOVA (3 seeds: 42,123,2024): Accuracy",0.0417536534446763,0.9875174280763628,No significant architecture effect across seeds
+"Repeated-Measures ANOVA (3 seeds: 42,123,2024): F1",0.0464096449019495,0.9854615822345236,No significant architecture effect across seeds
