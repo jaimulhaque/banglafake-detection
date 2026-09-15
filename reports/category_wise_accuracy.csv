@@ -1,0 +1,13 @@
+Category,Samples,Correct,Errors,Accuracy
+Crime,46,46,0,1.0
+Finance,22,22,0,1.0
+National,52,52,0,1.0
+Politics,111,110,1,0.991
+Miscellaneous,91,90,1,0.989
+International,88,86,2,0.9773
+Sports,47,45,2,0.9574
+Editorial,21,20,1,0.9524
+Lifestyle,32,30,2,0.9375
+Education,31,29,2,0.9355
+Technology,26,24,2,0.9231
+Entertainment,32,29,3,0.9062
