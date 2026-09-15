@@ -1,0 +1,3 @@
+is_truncated,Samples,Correct,Errors,Accuracy
+Not Truncated,336,331,5,0.9851
+Truncated,263,252,11,0.9582
