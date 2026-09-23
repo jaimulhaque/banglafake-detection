@@ -1,0 +1,5 @@
+corpus,variant,split,n_train,n_test,bacc,f1,auc
+c2020,raw_text,domain_heldout,34303,15518,0.768,0.812,0.969
+c2020,cue_masked,domain_heldout,34303,15518,0.77,0.814,0.97
+c2025,raw_text,domain_heldout,3280,699,0.589,0.535,0.688
+c2025,cue_masked,domain_heldout,3280,699,0.589,0.535,0.692
