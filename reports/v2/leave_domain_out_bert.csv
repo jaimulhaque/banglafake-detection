@@ -1,0 +1,5 @@
+corpus,split,n_train,n_test,n_domains_train,n_domains_test,bacc,f1,auc,domain_overlap
+c2020,random_split,34874,14947,81,51,0.938,0.953,0.992,
+c2020,domain_heldout,34303,15518,65,28,0.754,0.828,0.955,0.0
+c2025,random_split,2785,1194,21,18,0.981,0.981,0.995,
+c2025,domain_heldout,3280,699,18,8,0.659,0.631,0.801,0.0
