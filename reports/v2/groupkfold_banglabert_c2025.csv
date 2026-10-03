@@ -1,0 +1,2 @@
+corpus,model,n,bacc,recall0,recall1,auc
+c2025,BanglaBERT,3979,0.711,0.435,0.987,0.979

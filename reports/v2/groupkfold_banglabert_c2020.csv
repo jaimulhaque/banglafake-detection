@@ -1,0 +1,2 @@
+corpus,model,n,bacc,recall0,recall1,auc
+c2020,BanglaBERT,49821,0.794,0.591,0.998,0.944
