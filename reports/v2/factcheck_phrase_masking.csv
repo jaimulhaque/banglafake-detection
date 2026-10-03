@@ -1,0 +1,9 @@
+setting,text,bacc,recall0,recall1,auc,rec0_FB,rec0_Earki
+GroupKFold,text,0.505,0.041,0.969,0.678,0.047,0.009
+random_seed0,text,0.96,,,0.992,,
+random_seed1,text,0.951,,,0.991,,
+random_seed2,text,0.96,,,0.99,,
+GroupKFold,text_masked,0.5,0.038,0.961,0.653,0.04,0.015
+random_seed0,text_masked,0.956,,,0.991,,
+random_seed1,text_masked,0.952,,,0.99,,
+random_seed2,text_masked,0.961,,,0.99,,
