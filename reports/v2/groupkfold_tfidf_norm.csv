@@ -1,4 +1,3 @@
-corpus,method,bacc,recall0,recall1,auc
-c2025,plain,0.505,0.041,0.969,0.678
-c2025,groupdro_lite,0.492,0.003,0.981,0.428
-c2025,capped5x,0.508,0.05,0.965,0.717
+version https://git-lfs.github.com/spec/v1
+oid sha256:f83e83464a23cfe778fb3cecb6c67d4bb4c884fcff26deeda14e22628dc9ad21
+size 157

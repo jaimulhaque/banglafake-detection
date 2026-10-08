@@ -1,6 +1,3 @@
-Measure,Value
-Total unique sources,43.0
-Mixed-label sources,2.0
-Single-label sources,41.0
-Mixed-label source percentage,4.65
-Single-label source percentage,95.35
+version https://git-lfs.github.com/spec/v1
+oid sha256:0977df705de0e34cfe4226d96120ae4529edd25ff8860a181a363c537c4673db
+size 162

@@ -1,2 +1,3 @@
-corpus,model,n,bacc,recall0,recall1,auc
-c2025,BanglaBERT,3979,0.711,0.435,0.987,0.979
+version https://git-lfs.github.com/spec/v1
+oid sha256:3db5387ad230c768f562a826691af89c0f73708bc924b5a4b8697e331a89f2a7
+size 86

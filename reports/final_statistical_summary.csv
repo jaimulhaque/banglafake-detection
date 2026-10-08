@@ -1,3 +1,3 @@
-Test,Statistic,p_value,Conclusion
-"Repeated-Measures ANOVA (3 seeds: 42,123,2024): Accuracy",0.0417536534446763,0.9875174280763628,No significant architecture effect across seeds
-"Repeated-Measures ANOVA (3 seeds: 42,123,2024): F1",0.0464096449019495,0.9854615822345236,No significant architecture effect across seeds
+version https://git-lfs.github.com/spec/v1
+oid sha256:08c9caa2a10fe9dd3cdd566109f0cf0a3a73c936fa194407af479990d03e2716
+size 318

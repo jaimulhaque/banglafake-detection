@@ -1,5 +1,3 @@
-train,test,n,bacc,f1,auc
-c2,c2 (30% heldout),16629,0.914,0.937,0.974
-c2,c2025 (all),3979,0.821,0.821,0.879
-c2025,c2 (all),55428,0.794,0.836,0.866
-c2025,c2025 (30% heldout),1194,0.983,0.983,0.996
+version https://git-lfs.github.com/spec/v1
+oid sha256:d65f5ec3dba16890e90529c42e9cd2dba45a461af9a69767b943ddd5adfd2406
+size 195
