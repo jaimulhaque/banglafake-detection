@@ -1,4 +1,3 @@
-# Bangla Fake News Detection using BanglaBERT
 
 ## 📌 Project Overview
 This project detects **AI-generated fake Bangla news** using a **BanglaBERT + CNN + Attention** hybrid model.  
